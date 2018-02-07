@@ -1,0 +1,11 @@
+commit 614ab85faab10fbd008b1e2421981aa3bd808f25 (HEAD -> master)
+Author: Kate Sergeyenko <ekaterina.sergeyenko@gmail.com>
+Date:   Wed Feb 7 19:01:07 2018 +0300
+
+    add task1\status.txt
+
+commit 43c254b71f509c5ec3d9d689c6314c0a4292ec77
+Author: Kate Sergeyenko <ekaterina.sergeyenko@gmail.com>
+Date:   Wed Feb 7 18:58:05 2018 +0300
+
+    add .gitignore
